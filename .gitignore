@@ -1,3 +1,6 @@
+#specifics ignores
+trydjango/Scripts/
+.idea/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
